@@ -2,4 +2,4 @@ venv/
 db/*.db 
 __pycache__/ 
 .ipynb_checkpoints/
-.DS_StoreS
+.DS_Stores
