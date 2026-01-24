@@ -34,3 +34,12 @@ and strategic decision-making.
 - Prioritize inventory and staffing during peak periods
 - Monitor high-volatility stores more closely
 - Incorporate economic indicators into forecasting models
+
+## Data Source & Limitations
+
+The dataset was sourced from Kaggle and consists of multiple relational tables representing Walmart sales, store metadata, and external economic indicators.
+
+While the dataset is not officially published by Walmart and has limited public documentation, it provides a realistic structure for practicing data engineering, SQL joins, and KPI analysis.
+
+Any insights derived from this analysis should be interpreted as exploratory rather than definitive business conclusions.
+
